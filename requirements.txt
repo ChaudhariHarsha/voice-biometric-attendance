@@ -1,0 +1,7 @@
+streamlit
+numpy
+resemblyzer
+scipy
+sounddevice
+webrtcvad
+pyaudio
